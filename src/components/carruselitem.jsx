@@ -229,7 +229,7 @@ const Carrusel= () =>{
 
 
 
-<h3 class="categories__title">Original Victor</h3>
+<h3 class="categories__title">Original Cesar</h3>
 
   <section class="carousel">
     <div class="carousel__container">
