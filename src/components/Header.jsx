@@ -8,10 +8,10 @@ import icon from '../assets/static/user-icon.png';
 const Header = () => {
     return(
         <div className='header'>
-    <header className="header">
-    <img className="header__img" src={metal} alt="niggavideo" />
-    <div className="header__menu">
-      <div className="header__menu--profile">
+    <header class="header">
+    <img class="header__img" src={metal} alt="niggavideo" />
+    <div class="header__menu">
+      <div class="header__menu--profile">
         <img src={icon} class="icon" />
         <p>Perfil</p>
       </div>

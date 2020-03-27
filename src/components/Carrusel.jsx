@@ -6,11 +6,11 @@ import img from '../assets/plus-icon.png'
 
 const Carrusel = ({children}) =>{
     return(
-        <div className="Carrusel">
-        <section class="carousel_container">
+        <section class="carousel">
+        <div class="carousel_container">
           {children}
-       </section>
-      </div>
+       </div>
+      </section>
     );
 };
 

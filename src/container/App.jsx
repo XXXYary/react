@@ -13,6 +13,8 @@ const App = () =>{
             <Search />
             <Carrusel >
                 <Carruselitem />
+                <Carruselitem />
+                <Carruselitem />
             </Carrusel>
             <Footer />
         </div>
